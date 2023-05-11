@@ -13,7 +13,6 @@ actions:
   - text: 示例 💡
     link: /zh/demo/
 
-
 features:
   - title: Markdown 增强
     icon: markdown
