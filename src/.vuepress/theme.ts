@@ -3,11 +3,11 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://biomaker-pku.github.io/",
+  hostname: "https://biomaker-pku.github.io",
 
   author: {
     name: "BioMakers",
-    url: "https://biomaker-pku.github.io/",
+    url: "https://biomaker-pku.github.io",
   },
 
   iconAssets: "iconfont",
@@ -54,10 +54,6 @@ export default hopeTheme({
         editLink: "Edit this page on GitHub",
       },
     },
-  },
-
-  encrypt: {
-    config: {},
   },
 
   plugins: {

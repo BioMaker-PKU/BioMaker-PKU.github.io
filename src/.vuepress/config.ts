@@ -13,16 +13,16 @@ export default defineUserConfig({
   base: "/",
 
   locales: {
+    "/zh/": {
+      lang: "zh-CN",
+      title: "创意性实践",
+      description: "北京大学生命科学学院实践课程",
+    },
     "/en/": {
       lang: "en-US",
       title: "BioMaker",
       description:
         "Practical course at Peking University School of Life Sciences",
-    },
-    "/zh/": {
-      lang: "zh-CN",
-      title: "创意性实践",
-      description: "北京大学生命科学学院实践课程",
     },
   },
 
