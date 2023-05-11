@@ -11,17 +11,12 @@
     "docs:update-package": "pnpm dlx vp-update"
   },
   "devDependencies": {
-    "@vuepress/client": "2.0.0-beta.61",
-    "@vuepress/plugin-docsearch": "2.0.0-beta.61",
-    "@vuepress/utils": "2.0.0-beta.61",
-    "vue": "~3.2.47",
-    "vuepress": "2.0.0-beta.61",
-    "vuepress-plugin-redirect": "2.0.0-beta.209",
-    "vuepress-theme-hope": "2.0.0-beta.209"
-  },
-  "pnpm": {
-    "overrides": {
-      "@vue/shared": "~3.2.47"
-    }
+    "@vuepress/client": "2.0.0-beta.62",
+    "@vuepress/plugin-docsearch": "2.0.0-beta.62",
+    "@vuepress/utils": "2.0.0-beta.62",
+    "vue": "^3.3.1",
+    "vuepress": "2.0.0-beta.62",
+    "vuepress-plugin-redirect": "2.0.0-beta.210",
+    "vuepress-theme-hope": "2.0.0-beta.210"
   }
 }
