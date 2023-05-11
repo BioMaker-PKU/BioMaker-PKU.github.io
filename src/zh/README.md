@@ -1,17 +1,18 @@
 ---
 home: true
 icon: home
-title: 项目主页
+title: 主页
 heroImage: /logo.svg
-heroText: 项目名称
-tagline: 你可以在这里放置或是整个项目的描述。
+heroText: 创意性实践
+tagline: 北京大学生命科学学院实践课程
 actions:
-  - text: 使用指南 💡
-    link: /zh/demo/
+  - text: 指南 📝
+    link: /zh/guide/
     type: primary
 
-  - text: 文档
-    link: /zh/guide/
+  - text: 示例 💡
+    link: /zh/demo/
+
 
 features:
   - title: Markdown 增强
@@ -98,12 +99,4 @@ features:
     icon: more
     details: 包括图标支持、全屏按钮、返回顶部按钮等
     link: https://theme-hope.vuejs.press/zh/guide/feature/
-copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-present Mr.Hope
 ---
-
-这是项目主页的案例。你可以在这里放置你的主体内容。
-
-想要使用此布局，你需要在页面 front matter 中设置 `home: true`。
-
-配置项的相关说明详见 [项目主页配置](https://theme-hope.vuejs.press/zh/guide/layout/home/)。

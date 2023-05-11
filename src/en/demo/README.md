@@ -1,9 +1,9 @@
 ---
-title: 主要功能与配置演示
+title: Features Demo
 index: false
 icon: discover
 category:
-  - 使用指南
+  - Guide
 ---
 
 <AutoCatalog />

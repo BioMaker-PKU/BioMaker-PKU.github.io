@@ -9,22 +9,20 @@ export const zhNavbar = navbar([
     prefix: "/zh/guide/",
     children: [
       {
-        text: "Bar",
-        icon: "creative",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "more", link: "" }],
+        text: "CAD",
+        icon: "geometry",
+        link: "CAD/",
       },
       {
-        text: "Foo",
-        icon: "config",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "more", link: "" }],
+        text: "Arduino",
+        icon: "c",
+        link: "Arduino/",
+      },
+      {
+        text: "Python",
+        icon: "python",
+        link: "Python/",
       },
     ],
-  },
-  {
-    text: "V2 文档",
-    icon: "note",
-    link: "https://theme-hope.vuejs.press/zh/",
   },
 ]);
