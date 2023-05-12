@@ -39,11 +39,6 @@ features:
     details: Add author, writing date, reading time, word count and other information to your article
     link: https://theme-hope.vuejs.press/guide/feature/page-info.html
 
-  - title: Blog support
-    icon: blog
-    details: Listing your articles with their dates, tags and categories with some awesome layouts
-    link: https://theme-hope.vuejs.press/guide/blog/
-
   - title: Custom theme color
     icon: palette
     details: Supports custom theme colors and allows users to switch between preset theme colors
@@ -58,11 +53,6 @@ features:
     icon: support
     details: Full support of accessibility in your site
     link: https://theme-hope.vuejs.press/guide/interface/accessibility.html
-
-  - title: Article Encryption
-    icon: lock
-    details: Encrypt you articles based on page links, so that only the one you want could see them
-    link: https://theme-hope.vuejs.press/guide/feature/encrypt.html
 
   - title: Copy button
     icon: copy
@@ -88,11 +78,6 @@ features:
     icon: rss
     details: Generate feed to allow users to subscribe it
     link: https://theme-hope.vuejs.press/guide/advanced/feed.html
-
-  - title: PWA support
-    icon: mobile
-    details: Make your site more like an APP
-    link: https://theme-hope.vuejs.press/guide/advanced/pwa.html
 
   - title: More new features
     icon: more
