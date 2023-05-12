@@ -3,7 +3,7 @@ title: Markdown Enhance
 icon: markdown
 order: 2
 category:
-  - Guide
+  - Demo
 tag:
   - Markdown
 ---

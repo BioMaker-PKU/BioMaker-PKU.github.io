@@ -1,10 +1,7 @@
 ---
-title: Guide
-icon: creative
+title: Language and tools
+icon: note
 index: false
-article: false
-dir:
-  order: 1
 ---
 
 <AutoCatalog />

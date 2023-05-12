@@ -11,11 +11,11 @@ author: Ms.Hope
 date: 2020-01-01
 # A page can have multiple categories
 category:
-  - Guide
+  - Demo
 # A page can have multiple tags
 tag:
   - Page config
-  - Guide
+  - Demo
 # this page is sticky in article list
 sticky: true
 # this page will appear in starred articles
@@ -36,8 +36,8 @@ You can set page information in Markdown's Frontmatter.
 
 - The author is Ms.Hope.
 - The writing date is January 1, 2020
-- Category is "Guide"
-- Tags are "Page Config" and "Guide"
+- Category is "Demo"
+- Tags are "Page Config" and "Demo"
 
 ## Page Content
 
