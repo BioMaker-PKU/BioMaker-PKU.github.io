@@ -57,6 +57,8 @@ export default hopeTheme({
   },
 
   plugins: {
+    blog: true,
+
     comment: {
       provider: "Waline",
       serverURL: "https://waline-comment-gold.vercel.app/",
