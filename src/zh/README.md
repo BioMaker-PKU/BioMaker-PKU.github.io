@@ -20,7 +20,8 @@ actions:
 
 highlights:
   - header: 设计图纸
-    image: /assets/image/lightbulb.svg
+    image: /assets/image/design-light.svg
+    imageDark: /assets/image/design-dark.svg
     bgImage: /assets/bg/1-light.svg
     bgImageDark: /assets/bg/1-dark.svg
     highlights:
@@ -31,7 +32,8 @@ highlights:
         icon: material
         link: /zh/guide/cad/
   - header: 搭建电路
-    image: /assets/image/fixing-repair.svg
+    image: /assets/image/hardware-light.svg
+    imageDark: /assets/image/hardware-dark.svg
     bgImage: /assets/bg/2-light.svg
     bgImageDark: /assets/bg/2-dark.svg
     highlights:
@@ -42,7 +44,8 @@ highlights:
         icon: branch
         link: /zh/guide/arduino/
   - header: 制作软件
-    image: /assets/image/cpu.svg
+    image: /assets/image/software-light.svg
+    imageDark: /assets/image/software-dark.svg
     bgImage: /assets/bg/3-light.svg
     bgImageDark: /assets/bg/3-dark.svg
     highlights:
