@@ -7,3 +7,5 @@ category:
 tag:
   - CAD
 ---
+
+![cad test](/assets/image/software-light.svg)
