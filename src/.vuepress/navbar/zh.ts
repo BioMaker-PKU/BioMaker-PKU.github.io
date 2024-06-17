@@ -4,25 +4,25 @@ export const zhNavbar = navbar([
   "/zh/",
   {
     text: "指南",
-    icon: "note",
+    icon: "book",
     prefix: "/zh/guide/",
     children: [
       {
         text: "CAD",
-        icon: "geometry",
+        icon: "pencil",
         link: "CAD/",
       },
       {
         text: "Arduino",
-        icon: "c",
+        icon: "language-c",
         link: "Arduino/",
       },
       {
         text: "Python",
-        icon: "python",
+        icon: "language-python",
         link: "Python/",
       },
     ],
   },
-  { text: "案例", icon: "discover", link: "/zh/demo/" },
+  { text: "案例", icon: "creation", link: "/zh/demo/" },
 ]);

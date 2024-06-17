@@ -26,10 +26,10 @@ highlights:
     bgImageDark: /assets/bg/1-dark.svg
     highlights:
       - title: 二维 CAD
-        icon: geometry
+        icon: ruler-square-compass
         link: /zh/guide/cad/
       - title: 三维 CAD
-        icon: material
+        icon: cube-outline
         link: /zh/guide/cad/
   - header: 搭建电路
     image: /assets/image/hardware-light.svg
@@ -38,10 +38,10 @@ highlights:
     bgImageDark: /assets/bg/2-dark.svg
     highlights:
       - title: Arduino 程序
-        icon: process
+        icon: application-braces-outline
         link: /zh/guide/arduino/
       - title: 单片机
-        icon: branch
+        icon: source-branch
         link: /zh/guide/arduino/
   - header: 制作软件
     image: /assets/image/software-light.svg
@@ -53,6 +53,6 @@ highlights:
         icon: api
         link: /zh/guide/arduino/
       - title: 交互界面
-        icon: window
+        icon: monitor-shimmer
         link: /zh/guide/python/
 ---

@@ -1,6 +1,6 @@
 ---
 title: Language and tools
-icon: note
+icon: tools
 index: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: CAD
-icon: geometry
+icon: ruler-square-compass
 index: false
 article: false
 dir:

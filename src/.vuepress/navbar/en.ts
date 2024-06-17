@@ -4,25 +4,25 @@ export const enNavbar = navbar([
   "/en/",
   {
     text: "Guide",
-    icon: "creative",
+    icon: "book",
     prefix: "/en/guide/",
     children: [
       {
         text: "CAD",
-        icon: "geometry",
+        icon: "pencil",
         link: "CAD/",
       },
       {
         text: "Arduino",
-        icon: "c",
+        icon: "language-c",
         link: "Arduino/",
       },
       {
         text: "Python",
-        icon: "python",
+        icon: "language-python",
         link: "Python/",
       },
     ],
   },
-  { text: "Demo", icon: "discover", link: "/en/demo/" },
+  { text: "Demo", icon: "creation", link: "/en/demo/" },
 ]);

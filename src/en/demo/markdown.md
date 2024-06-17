@@ -1,6 +1,6 @@
 ---
 title: Markdown Enhance
-icon: markdown
+icon: language-markdown
 order: 2
 category:
   - Demo

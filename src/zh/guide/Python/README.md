@@ -1,6 +1,6 @@
 ---
 title: Python
-icon: python
+icon: language-python
 index: false
 article: false
 dir:

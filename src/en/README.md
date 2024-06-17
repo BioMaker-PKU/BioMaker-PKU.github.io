@@ -26,10 +26,10 @@ highlights:
     bgImageDark: /assets/bg/1-dark.svg
     highlights:
       - title: 2D CAD
-        icon: geometry
+        icon: ruler-square-compass
         link: /zh/guide/cad/
       - title: 3D CAD
-        icon: material
+        icon: cube-outline
         link: /zh/guide/cad/
   - header: Build circuits
     image: /assets/image/hardware-light.svg
@@ -38,10 +38,10 @@ highlights:
     bgImageDark: /assets/bg/2-dark.svg
     highlights:
       - title: Arduino program
-        icon: process
+        icon: application-braces-outline
         link: /zh/guide/arduino/
       - title: Single board computer
-        icon: branch
+        icon: source-branch
         link: /zh/guide/arduino/
   - header: Make software
     image: /assets/image/software-light.svg
@@ -53,6 +53,6 @@ highlights:
         icon: api
         link: /zh/guide/arduino/
       - title: User interface
-        icon: window
+        icon: monitor-shimmer
         link: /zh/guide/python/
 ---

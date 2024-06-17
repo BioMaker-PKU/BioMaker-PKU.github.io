@@ -1,6 +1,6 @@
 ---
 title: 语言与工具
-icon: note
+icon: tools
 index: false
 ---
 

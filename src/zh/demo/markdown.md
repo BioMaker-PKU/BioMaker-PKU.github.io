@@ -1,6 +1,6 @@
 ---
 title: Markdown 展示
-icon: markdown
+icon: language-markdown
 order: 2
 category:
   - 示例

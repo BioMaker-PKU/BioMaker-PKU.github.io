@@ -1,6 +1,6 @@
 ---
 title: Arduino
-icon: c
+icon: language-c
 index: false
 article: false
 dir:
