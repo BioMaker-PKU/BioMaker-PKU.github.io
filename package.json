@@ -24,7 +24,7 @@
     "reveal.js": "^5.1.0",
     "vue": "^3.4.29",
     "vuepress": "2.0.0-rc.13",
-    "vuepress-theme-hope": "2.0.0-rc.48"
+    "vuepress-theme-hope": "2.0.0-rc.49"
   },
   "trustedDependencies": [
     "core-js"
