@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@vue/repl": "^4.2.1",
-    "@vuepress/bundler-vite": "2.0.0-rc.21",
+    "@vuepress/bundler-vite": "2.0.0-rc.22",
     "@vuepress/plugin-docsearch": "2.0.0-rc.95",
     "@vuepress/plugin-redirect": "^2.0.0-rc.8",
     "@waline/client": "^3.2.2",
