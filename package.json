@@ -17,7 +17,7 @@
     "@vuepress/plugin-redirect": "^2.0.0-rc.8",
     "@waline/client": "^3.2.2",
     "chart.js": "^4.4.3",
-    "echarts": "^5.5.0",
+    "echarts": "^6.0.0",
     "flowchart.ts": "^3.0.0",
     "katex": "^0.16.10",
     "mermaid": "^11.0.0",
