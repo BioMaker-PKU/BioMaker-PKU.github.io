@@ -19,7 +19,7 @@
     "chart.js": "^4.4.3",
     "echarts": "^6.0.0",
     "flowchart.ts": "^3.0.0",
-    "katex": "^0.16.10",
+    "katex": "^0.17.0",
     "mermaid": "^11.0.0",
     "reveal.js": "^5.1.0",
     "vue": "^3.4.29",
